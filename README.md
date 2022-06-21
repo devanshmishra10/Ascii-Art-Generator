@@ -5,14 +5,14 @@ But…what if we use this for something other than text? Like for example Asciif
 ## How to run the project
 * you can choose Download Zip option in the dropdown of 'code' just above the files or can use git clone command to download the contents of the project.
 ```
-git clone https://github.com/devanshmishra10/Ascii-Art-Generator
+$ git clone https://github.com/devanshmishra10/Ascii-Art-Generator
 ```
 * Once you have the folder and the files in your system open the sketch.py and video.py files in your editor and run the python file one by one.
 ```
-python sketch.py
+> python sketch.py
 ```
 ```
-python video.py
+> python video.py
 ```
 > Note : above command maybe different according to the version of python installed in your system so check it accordingly like using python3 command instead of python.
 * The video.py file supports Windows OS only in order to show the asciified video so make sure you run this file in Windows only to get no error. 
