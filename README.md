@@ -34,5 +34,7 @@ Now we use character mapping to convert the grey area into ASCII charcters based
 * [AScii Art](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
 * [Drawing an Ascii sketch](https://blog.waffles.space/2017/03/01/ascii-sketch/#fnref:2)
 * [How images are stored in a computer](https://alekya3.medium.com/how-images-are-stored-in-a-computer-f364d11b4e93)
+
+
 https://user-images.githubusercontent.com/86547969/174853115-e8533a35-bd49-4f96-9a61-b1fc1cfeef01.mp4
 
