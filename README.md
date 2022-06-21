@@ -27,6 +27,8 @@ $ git clone https://github.com/devanshmishra10/Ascii-Art-Generator
 Here in this project these two are the tasks which I'm performing :
 * Taking any image as an input and forming a pencil sketched version of the image but only with ascii characters embedded in it.
 * Taking any video and displaying its asciified version on a screen.
+## Demo video of the running project
+[Ascii Art Generator Demo](https://drive.google.com/file/d/1Oyyzz2wQJPKwAutAEneFWmD32sV7VHyZ/view?usp=sharing)
 ## Resources
 * [AScii Art](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
 * [Drawing an Ascii sketch](https://blog.waffles.space/2017/03/01/ascii-sketch/#fnref:2)
