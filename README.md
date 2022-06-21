@@ -15,7 +15,7 @@ $ git clone https://github.com/devanshmishra10/Ascii-Art-Generator
 > python video.py
 ```
 > Note : above command maybe different according to the version of python installed in your system so check it accordingly like using python3 command instead of python.
-* The video.py file supports Windows OS only in order to show the asciified video so make sure you run this file in Windows only to get no error. 
+* The video.py file supports Windows OS only in order to show the asciified video so make sure you run this file in Windows only to not get any error. 
 * You can change the input image and video files by adding your files in the 'data' folder and changing the name of the file in the code file accordingly.
 ## Description of my tasks
 Here in this project these two are the tasks which I'm performing :
