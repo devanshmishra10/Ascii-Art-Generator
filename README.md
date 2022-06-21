@@ -29,6 +29,7 @@ Here in this project these two are the tasks which I'm performing :
 * Taking any video and displaying its asciified version on a screen.
 ## Resources
 [AScii Art](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
+
 [Drawing an Ascii sketch](https://blog.waffles.space/2017/03/01/ascii-sketch/#fnref:2)
 [How images are stored in a computer](https://alekya3.medium.com/how-images-are-stored-in-a-computer-f364d11b4e93)
 
